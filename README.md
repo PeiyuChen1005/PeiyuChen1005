@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Wendi Chen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
+<img align="right" alt="Wendi Chen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Peiyu&show_icons=true">
 I'm Peiyu Chen. I'm interested in machine learning and currently working on 'brushing' questions in LeetCode to improve skills.
 
 - :man_student: Junior @ Computer Science and Engineering Dept., SJTU.
