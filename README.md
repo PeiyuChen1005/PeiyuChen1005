@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="Wendi Chen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
+I'm Peiyu Chen. I'm interested in machine learning and currently working on 'brushing' questions in LeetCode to improve skills.
+- :man_student: Junior @ Computer Science and Engineering Dept., SJTU.
+- 📫 pietychen@sjtu.edu.cn
+- :spider_web: [More about me!](peiyuchen.xyz)
