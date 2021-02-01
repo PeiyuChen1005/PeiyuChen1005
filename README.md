@@ -21,4 +21,4 @@ I'm Peiyu Chen. I'm interested in machine learning and currently immersing mysel
 
 - 📫 pietychen@sjtu.edu.cn
 
-- :spider_web: [More about me!](peiyuchen.xyz)(:construction:under construction)
+- :spider_web: [More about me!](https://peiyuchen.xyz/)(:construction:under construction)
