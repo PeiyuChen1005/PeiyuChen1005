@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="Peiyu Chen's github stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=PeiyuChen1005&show_icons=true">
-I'm Peiyu Chen. I'm interested in machine learning and currently immersing myself in LeetCode.
+I'm Peiyu Chen. I'm interested in deep learning and currently immersing myself in multi-modal and self-supervised problems.
 
 - :man_student: Junior @ Computer Science and Engineering Dept., SJTU.
 
