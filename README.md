@@ -21,4 +21,4 @@ I'm Peiyu Chen. I'm interested in deep learning and currently immersing myself i
 
 - 📫 pietychen@sjtu.edu.cn
 
-- :spider_web: [More about me!](https://peiyuchen.xyz/)
+- :spider_web: [More about me!](https://peiyuchen.top/)
